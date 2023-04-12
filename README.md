@@ -20,6 +20,6 @@ Hi, I'm XinEn Zheng, a coder knowing a little things, but I'm getting stronger!
 - 📫 How to reach me: alg_xeon@163.com
 
 
-[![ALGXeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALGXeon&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![ALGXeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALGXeon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALGXeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALGXeon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
