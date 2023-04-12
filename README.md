@@ -1,4 +1,4 @@
-### Hi there 👋
+### glad to see you! 👋
 
 <!--
 **ALGXeon/ALGXeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm XinEn Zheng, a coder knowing a little things,but I'm getting stronger! 
+
+- 📫 How to reach me: alg_xeon@163.com
+
+
+[![ALGXeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALGXeon)](https://github.com/anuraghazra/github-readme-stats)
