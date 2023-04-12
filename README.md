@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm XinEn Zheng, a coder knowing a little things,but I'm getting stronger! 
+Hi, I'm XinEn Zheng, a coder knowing a little things, but I'm getting stronger! 
 
 - 📫 How to reach me: alg_xeon@163.com
 
